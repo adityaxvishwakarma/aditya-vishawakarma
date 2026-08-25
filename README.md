@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Full-Stack Developer
 
-I'm a student who recently completed Class 12 and I'm currently learning Full-Stack Development from the ground up
+I'm a student who recently completed Class 12 and I'm currently learning Full-Stack Development from the ground up.
 
 I enjoy learning how websites and applications work and building projects while improving my programming skills.
 
