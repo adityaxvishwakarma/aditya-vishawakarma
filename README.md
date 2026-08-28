@@ -75,7 +75,7 @@ Full-Stack Development
 
 ## 🎯 My Goal
 
-My goal is to continuously learn, build real-world projects, and grow from a beginner into a skilled Full-Stack Developer.  
+My goal is to continuously learn, build real-world projects, and grow from a beginner into a skilled Full-Stack Developer.
 
 I believe in:
 
